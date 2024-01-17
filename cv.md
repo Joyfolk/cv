@@ -1,73 +1,86 @@
 # Turnovskiy Mikhail
 
-Software Engineer, Russia, Moscow
+Software Engineer, Germany, Berlin
+
+[email](mailto:joyfolk@gmail.com) | [telegram](https://t.me/joyfolk) | [linkedin](https://www.linkedin.com/in/mturnovskiy/) | [github](https://github.com/Joyfolk)
 
 # Skills:
 
-- Java - ~20 years from Swing and J2EE to Spring Boot;
-- Scala - not very functional, Akka/Play/Spark, no Cats/ZIO/etc experience;
-- Erlang - several years, last time > 5 years ago;
-- different SQL and no-SQL databases
-- 2 years of people/team management
+## Technical: 
+
+- Java -  good knowledge, 20+ years of experience;
+- Scala - several years of experience, mostly in the “better-java” style;
+- Some experience with Python, Javascript/Typescript, Kotin, Erlang, C++, etc;
+- different SQL databases and no-SQL solutions, queues, and so on; 
+- some management experience
+
+## Languages: 
+
+- English - B2;
+- German - beginner;
+- Russian - native
+
 
 # Work experience:
+- **10.2022 - present** - Zalando SE, Software Engineer, Connected Network
+  
+    Development of different backend services, responsible for inbound items tracking
+  
+    Technologies: Java/Kotlin/Typescript/Postgres/Nakadi/K8s
 
-- 10.2021 - present, Yandex.Taxi, Software Engineer, DWH/infrastructure team
+- **10.2021 - 09.2022** - Yandex.Taxi, Software Engineer, DWH/infrastructure team
   
-  Development of "Spark-over-YT" - internal fork of Apache Spark integrated with homegrown map-reduce/scheduling/filesystem framework
+    Development of "Spark-over-YT" - internal fork of Apache Spark integrated with homegrown map-reduce/scheduling/filesystem framework.
   
-  Techonologies: Java/Scala/Python/Apache Spark/YT (internal m/r framework)
+    Technologies: Java/Scala/Python/Apache Spark/YT (internal m/r framework)
 
-- 06.2020 - 10.2021 - Yandex.Market, Software Engineer, back-office team
-                  
-  Development of backend services for Yandex.Market back-office. 
+- **06.2020 - 10.2021** - Yandex.Market, Software Engineer, back-office team
   
-  Participated in two large-scale projects: 
+    Development of backend services for Yandex.Market back-office.
   
-  - integrating of advertising and marketplace based pipelines for seller's feeds;
+    Participated in two large-scale projects: 
+    * integrating advertising-based and marketplace-based pipelines for seller's feeds;
+    * a unification of internal representation of goods properties;
   
-  - a unification of internal representation of goods properties;
+    Technologies: Java/Spring Boot/PostgreSQL/Clickhouse/YT (internal m/r framework)
   
-  Technologies: Java/Spring Boot/PostgreSQL/Clickhouse/YT (internal m/r framework)
-
-- 06.2020 - present - Algom (algom.ru), Engineering/Team manager (part-time job)
-                      
-  Management of software development team of the company. 
-
-- 01.2020 - 05.2020 - fastdata.io, Scala developer 
- 
-  Development of custom fork of Apache Spark with GPU-based execution of SparkSQL queries.
+- **06.2020 - 03.2022** - Algom (algom.ru), Engineering/Team manager (part-time job)
   
-  Technologies: Java/Scala
-                      
-- 05.2019 - 01.2020 - Arrival, Senior Java developer
+    Management of the (relatively small) software development team of the company. Responsibilities covered projects, technical, and people management aspects, including but not limiting hiring, engineering     advice, planning of roadmap, communicating business requirements with stakeholders and partners, estimation of resources, and so on.
   
-  Development of different components for ERP system
+- **01.2020 - 05.2020** - fastdata.io, Scala Developer
   
-  Technologies: Java/Spring/MongoDB/TinkerPop/AWS
-
-- 11.2018 - 05.2019 - Distillery (outstaff for Tala), Scala
+    Development of a custom fork of Apache Spark with GPU-based execution of SparkSQL queries.
   
-  Development of backend micro-services for fintech.
+    Technologies: Java/Scala
   
-  Technologies: Scala/Play/Akka/MySQL/Snowflake
-
-- 11.2010 - 11.2018 - Nexign (PeterService), Lead Software Engineer
+- **05.2019 - 01.2020** - Arrival, Senior Java Developer
   
-  Different projects for largest Russian telecom operators
+    Development of different components for the ERP system
   
-  Technologies: Java, Scala, Erlang, Cassandra, Spark, Oracle, Tarantool, RabbitMQ
-
-- 11.2000 - 11.2010 - MC NTT (Rostelecom), Senior Software Engineer
+    Technologies: Java/Spring/MongoDB/TinkerPop/AWS
   
-  Development of internal billing, CRM, and task tracking systems. Business process automation.
+- **11.2018 - 05.2019** - Distillery (outstaff developer for tala.co), Scala Developer
   
-  Technologies: Perl/CGI (early 2000s)/C++(MSVC, windows)/Java (J2EE, Swing), MySQL, Oracle 
-
+    Development of backend micro-services for fintech.
+  
+    Technologies: Scala/Play/Akka/MySQL/Snowflake
+  
+- **11.2010 - 11.2018** - Nexign (PeterService), Lead Software Engineer
+  
+    Different CRM and advertising-related projects for the largest Russian telecom operators.
+  
+    Technologies: Java, Scala, Erlang, Cassandra, Spark, Oracle, Tarantool, RabbitMQ
+  
+- **11.2000 - 11.2010** - MC NTT (Rostelecom), Senior Software Engineer
+  
+    Development of internal billing, CRM, and task tracking systems. Business process automation.
+  
+    Technologies: Perl/CGI (early 2000s)/C++(MSVC, windows)/Java (J2EE, Swing), MySQL, Oracle
 
 # Education:
 
-- 1998-2004 - Moscow Aviation Institute (National Research University), Engineer degree
-
-  System design of aviation complexes
+- **1998 - 2004** - Moscow Aviation Institute (National Research University)
+  
+    System design of aviation complexes
 
