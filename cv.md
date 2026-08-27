@@ -14,8 +14,8 @@ Applied this expertise in several high-impact projects, including:
 
 ## Skills
 
-- **Languages:** Java, Kotlin, Scala, SQL
-- **Technologies:** PostgreSQL, Apache Spark, Kafka, AWS, Docker, Kubernetes, Spring
+- **Languages:** Java, Go, Kotlin, Scala, SQL
+- **Technologies:** PostgreSQL, Spark, Flink, Kafka, AWS, Docker, Kubernetes, Spring
 - **Previously:** TypeScript, Python, Erlang, C++, RabbitMQ, Apache Cassandra, Tarantool, Oracle
 
 ## Experience
