@@ -79,4 +79,4 @@ Engineer Degree in Automated Control Systems of Military Aviation Complexes
 
 ## Additional Information
 
-EU Blue Card holder (Germany), not employer-tied.
+EU Permanent residence permit (Niederlassungserlaubnis, Germany)
