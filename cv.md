@@ -20,12 +20,13 @@ Applied this expertise in several high-impact projects, including:
 
 ## Experience
 
-### Software Engineer | Zalando SE | 2022 - present
+### Software Engineer | Zalando SE | 2022 - 2026
 Europe’s leading online fashion platform with 50M+ active customers.
 
 - Enhanced observability across team services by standardizing logging, metrics, and tracing, reducing average incident response time by 30%.
 - Improved performance of reporting workflows by optimizing database structures, reducing report generation time by 50%, and eliminating most timeouts.
 - Developed a stock replenishment recommendation service in collaboration with data scientists. The pilot’s success led to a decision to commercialize the solution.
+- Migrated legacy customer actions tracking pipeline from internally created storage to an external Feature Store solution, processing ~20k events per second and up to 4bln daily actions.
 
 **Technologies used:** Java, Kotlin, TypeScript, Spring, PostgreSQL, Kafka, AWS, Docker, Kubernetes.
 
